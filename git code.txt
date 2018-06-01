@@ -1,0 +1,11 @@
+git add "jupiter.txt"
+git commit -m "Third Commit Added  to jupiter the first sample change"
+
+
+git status
+git checkout HEAD~2 jupiter.txt
+git log
+
+git remote add origin https://github.com/hasalaid/DEROpenDSSTestbed.git
+git push origin master
+
