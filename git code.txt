@@ -1,3 +1,9 @@
+
+git init
+git add ./
+
+
+clear
 git add "jupiter.txt"
 git commit -m "Third Commit Added  to jupiter the first sample change"
 
