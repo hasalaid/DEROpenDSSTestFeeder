@@ -1,4 +1,4 @@
-%This file screated the plots in the figures.
+%This file is used to create the plots in the figures.
 close all;
 
 s=[1:43201];
