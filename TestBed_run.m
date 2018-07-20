@@ -1,4 +1,4 @@
-% Examples of using Matlab to plot the voltage profile and other data https://github.com/tshort/OpenDSS/blob/master/Distrib/Examples/Matlab/MiscExamples.m
+% This file drives the OpenDSS engine and saves the results in the current matlab workspace
 clear all;clc;close all;tic;
 
 
