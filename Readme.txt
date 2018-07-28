@@ -20,7 +20,7 @@ I. Deactivating only Tap controls (Regulator)
 
 2. Run In TestBed_run.m
 
-II. Deactivating Tap controls (Regulator),  Battry Banks, and Capacitor controllers
+II. Deactivating Tap controls (Regulator),  Battery Banks, and Capacitor controllers
 
 1. Do I
 
