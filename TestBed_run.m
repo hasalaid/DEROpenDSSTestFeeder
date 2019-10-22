@@ -20,9 +20,12 @@ DSSText = DSSobj.Text;
 
 
 
-DSSText.command='redirect (C:\Users\hdharma\Google Drive\Research\TestBed\Dist\TestBed.dss)';
 
-
+mfilepath=fileparts(which(mfilename))
+Testbedpath= fullfile(mfilepath,'/TestBed.dss');
+newdsscommandstring=  join(['redirect (',Testbedpath,')']);
+DSSText.command=newdsscommandstring;
+%DSSText.command='redirect (C:\Users\hdharma\Google Drive\Research\TestBed\Dist\TestBed.dss)';
 
 
 DSSText.Command='Set VoltageBases = "69,24.9,4.16, .48"';
