@@ -4,8 +4,6 @@ A. How to run:
 
 1. Change your matlab folder to the directory where the files are saved eg: C:\Dist
 
-1b. L23 in matlab m file, change the directory to where you have now stored the opendss .dss file.
-
 2. Run TestBed_run.m in matlab
 
 3. All the data needed for the plot are now  in your workspace
